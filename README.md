@@ -17,7 +17,11 @@ Git clone https://github.com/mhykol2k/flutter_exercise.git
 
 ## Example
 
-![This is an image](https://i.imgur.com/hGK0ekw.png)
+<div align="center">
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/72493335/179564468-160366d2-93e7-45e9-ade8-b4ba346be0aa.gif)
+
+</div>
 
 ## Code Examples
 
